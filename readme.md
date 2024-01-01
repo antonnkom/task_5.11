@@ -6,4 +6,4 @@ LICENSE: [MIT](https://mit-license.org/)
 
 Все изображения, используемые на странице, загружены с бесплатного фотостока [Unsplash](https://unsplash.com).
 
-Демо: [https://antonnkom.github.io/task_5.11/](https://antonnkom.github.io/task_5.11/)
+Демо: [https://antonnkom.github.io/task_5.11/html/](https://antonnkom.github.io/task_5.11/html/)
